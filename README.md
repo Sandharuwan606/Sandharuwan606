@@ -41,8 +41,6 @@
 
 </div>
 
----
-
 ## 📁 Featured Projects
 
 ### 🔧 DevOps & Infrastructure
